@@ -1,0 +1,5 @@
+{
+  "name": "AI Study Aid Generator",
+  "description": "Upload your study materials (text, PDF, or images) and generate quizzes, FAQs, and more using the Gemini API to supercharge your learning.",
+  "requestFramePermissions": []
+}
